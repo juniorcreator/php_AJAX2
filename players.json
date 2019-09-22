@@ -1,0 +1,9 @@
+{
+  "players":
+          [
+            {"lastname": "name1", "firstname": "name2","cityzen": "ukraine"},
+            {"lastname": "name2", "firstname": "name2","cityzen": "ukraine2"},
+            {"lastname": "name3", "firstname": "name3","cityzen": "ukraine3"},
+            {"lastname": "name4", "firstname": "name4","cityzen": "ukraine4"}
+          ]
+}
